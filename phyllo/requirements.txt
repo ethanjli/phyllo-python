@@ -1,0 +1,6 @@
+phylline
+bidict
+cobs
+msgpack
+pyserial
+blessed
